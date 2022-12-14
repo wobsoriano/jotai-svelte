@@ -32,7 +32,7 @@
     "lint:fix": "eslint . --fix"
   },
   "peerDependencies": {
-    "jotai": ">=1.11.1"
+    "jotai": ">=1.11.2"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.18.9",
