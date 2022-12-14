@@ -21,7 +21,7 @@ export const countAtom = atom(0)
 ```html
 <script lang="ts">
   import { useAtom } from 'jotai-svelte'
-  import { countAtom } from './store'
+  import { countAtom } from './atoms'
   const count = useAtom(countAtom)
 </script>
 
