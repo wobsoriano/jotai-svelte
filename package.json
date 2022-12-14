@@ -1,6 +1,6 @@
 {
   "name": "jotai-svelte",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Primitive and flexible state management for Svelte based on Jotai.",
   "license": "MIT",
   "repository": {
