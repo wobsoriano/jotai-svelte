@@ -5,4 +5,5 @@ export {
 
 export {
   atom,
+  createStore,
 } from 'jotai/vanilla'
