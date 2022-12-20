@@ -32,21 +32,21 @@
     "lint:fix": "eslint . --fix"
   },
   "peerDependencies": {
-    "jotai": ">=1.11.2"
+    "jotai": ">=1.12.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.18.9",
     "@sveltejs/vite-plugin-svelte": "^1.4.0",
     "@testing-library/svelte": "^3.2.2",
     "bumpp": "^7.2.0",
-    "eslint": "^8.29.0",
-    "jotai": "^1.11.2",
+    "eslint": "^8.30.0",
+    "jotai": "^1.12.0",
     "jsdom": "^19.0.0",
     "lint-staged": "^12.5.0",
     "node-fetch-native": "^1.0.1",
     "simple-git-hooks": "^2.8.1",
     "svelte": "^3.55.0",
-    "taze": "^0.8.4",
+    "taze": "^0.8.5",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4",
     "vitest": "^0.25.8"
